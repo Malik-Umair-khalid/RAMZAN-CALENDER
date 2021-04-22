@@ -1,0 +1,30 @@
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    background-color: white;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+div{
+    border: 5px solid black;
+    transition: 0.5s;
+}
+div:hover{
+    font-size: 40px;
+    color: white;
+}
+body{
+    background-image: url("https://images5.alphacoders.com/924/thumb-1920-924669.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
